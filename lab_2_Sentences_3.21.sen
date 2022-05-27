@@ -1,0 +1,1 @@
+7.2.5.30971wnds:Windows 1010.0SntFC1653483052054D1653483800134D1653484286664S107626Small(a) | (Large(c) & Large(d))BackOf(d, b) & BackOf(e, b)BackOf(d, b) & BackOf(e, b)  & (Larger(d, b )& Larger(e,b  ))SameCol(b,e) & SameRow(e,d)  & SameCol(d,a)~SameRow(b,c)~FrontOf(d,c  ) | ~FrontOf(c,b  )s=47279;
