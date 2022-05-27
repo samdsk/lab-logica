@@ -1,0 +1,20 @@
+1. If a is a tetrahedron then it is in front of d.
+	tet(a) -> frontof(a,d)
+
+2. a is to the left of or right of d only if it’s a cube.
+	cube(a) -> (leftof(a,d) or rightof(a,d))
+
+3. c is between either a and e or a and d.
+	between(c,a,e) or between(c,a,d)
+
+5. c is to the right of d only if b is to the right of c and left of e.
+	(rightof(c,d) and leftof(b,c)) -> rightof(b,e) 
+
+6. If e is a tetrahedron, then it’s to the right of b if and only if it is also in front of b.
+	tet(e) -> (rightof(e,b)) <-> frontof(e,b))
+
+7. If b is a dodecahedron, then if it isn’t in front of d then it isn’t in back of d either.
+	dodec(b) -> not frontof(b,d) -> not backof(b,d)
+
+8. c is in back of a but in front of e.
+	backof(c,a) and frontof(c,e)
