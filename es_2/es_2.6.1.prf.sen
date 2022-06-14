@@ -1,0 +1,1 @@
+7.2.5.30971wnds:Windows 1010.0SntFC1655105864359D1655105952733S85034@x @y (LeftOf(x,y)$(Cube(x) | Tet(y)))/x LeftOf(a, x)@x (Cube(x) $ ~Cube(x))Tet(a)s=24778;
