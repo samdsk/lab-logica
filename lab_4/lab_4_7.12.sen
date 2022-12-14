@@ -1,0 +1,1 @@
+7.2.5.30971wnds:Windows 1010.0SntFC1671008603612D1671009735350S88358Tet(a) $ FrontOf(a,d)(LeftOf(a, d) | RightOf(a,d)) $ Cube(a)Between(c,a,e) | Between(c,a,d)RightOf(c, d) $ (RightOf(b, c) & LeftOf(b, e))Tet(e) $ (RightOf(e, b) % FrontOf(e, b))(Dodec(b) $ ~FrontOf(b, d)) $ ~BackOf(b, d)BackOf(c, a) & FrontOf(c, e)s=53077;
