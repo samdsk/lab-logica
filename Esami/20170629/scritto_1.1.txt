@@ -1,0 +1,2 @@
+E' una conseguenza tautologica in quanto per il teorema di validità
+esiste una prova in fitch, dove applicando Modus tollens si ottiene -P e R con applicando intro OR
